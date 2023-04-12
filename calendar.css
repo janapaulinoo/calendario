@@ -1,0 +1,16 @@
+table, td, th, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;   
+} 
+td{
+    width: 50px;
+    height: 40px;
+    font-size: 25px;
+}
+th{
+    font-size: 23px;
+}  
+#feriado{
+    color: red;
+}
